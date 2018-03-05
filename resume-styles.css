@@ -1,0 +1,60 @@
+
+h1{
+    font-size: 3.2em;
+    margin-bottom: -0.15em;
+}
+body{
+    margin: 0em 20em;
+    margin-bottom: 3em;
+    background-image: linear-gradient(
+        to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)
+        ), url("light-textured-background.jpg");
+}
+img{
+    float: right;
+    border-radius: 0.15em;
+    display: block;
+    box-shadow: 4px 8px 4px rgba(0,0,0,0.2);
+}
+.personal-summary{
+    font-style: italic;
+    font-size: 1.4em;
+    font-family: sans-serif;
+    font: trebuchet, didot, helvetica;
+    margin-bottom: 2em;
+}
+.date {
+float: right;
+}
+.title-and-date{
+    display:block;
+}
+h3{
+    border-bottom: double;
+    margin-bottom: auto;
+    font-size: 1.5em;
+}
+.organization-name{
+    font: 18px trebuchet;
+    position: relative;
+    bottom: -1.2em;
+}
+ul{
+    position: relative;
+    margin-top: -0.8em;
+}
+.job-description{
+    position: relative;
+    margin-bottom: -1.4em;
+    margin-top: -1em;
+}
+.contact-info{
+    font-size: 1em;
+}
+.school{
+    font: 18px trebuchet;
+    margin-top: 0.6em;
+}
+.education-content{
+    padding-top: 0.75em;
+}
